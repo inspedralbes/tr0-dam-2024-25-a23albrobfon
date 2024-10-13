@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "pregunta": "Quin any va sortir ‘Old Boy’'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2003"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2004"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2002"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2001"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvIwiG46mMRv12N0h7b9IjfdP-FaNQEoqqg&s"
+  },
+  {
+    "id": 2,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode IV - A New Hope'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "1978"
+      },
+      {
+        "id": 2,
+        "etiqueta": "1977"
+      },
+      {
+        "id": 3,
+        "etiqueta": "1976"
+      },
+      {
+        "id": 4,
+        "etiqueta": "1979"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://m.media-amazon.com/images/I/612h-jwI+EL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 3,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode V - The Empire Strikes Back'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "1980"
+      },
+      {
+        "id": 2,
+        "etiqueta": "1981"
+      },
+      {
+        "id": 3,
+        "etiqueta": "1979"
+      },
+      {
+        "id": 4,
+        "etiqueta": "1982"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://m.media-amazon.com/images/I/81a+MI2U7ZL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode VI - Return of the Jedi'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "1985"
+      },
+      {
+        "id": 2,
+        "etiqueta": "1984"
+      },
+      {
+        "id": 3,
+        "etiqueta": "1982"
+      },
+      {
+        "id": 4,
+        "etiqueta": "1983"
+      }
+    ],
+    "resposta_correcta": 4,
+    "imatge": "https://images.randomhouse.com/cover/9780345307675"
+  },
+  {
+    "id": 5,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode I - The Phantom Menace'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "1998"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2000"
+      },
+      {
+        "id": 3,
+        "etiqueta": "1999"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2001"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://lumiere-a.akamaihd.net/v1/images/image_33685209.jpeg?region=0,0,540,810"
+  },
+  {
+    "id": 6,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode II - Attack of the Clones'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2002"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2001"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2003"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2000"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_.jpg"
+  },
+  {
+    "id": 7,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode III - Revenge of the Sith'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2004"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2005"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2006"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2003"
+      }
+    ],
+    "resposta_correcta": 2,
+    "imatge": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode VII - The Force Awakens'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2015"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2014"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2016"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2017"
+      }
+    ],
+    "resposta_correcta": 1,
+    "imatge": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_.jpg"
+  },
+  {
+    "id": 9,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode VIII - The Last Jedi'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2019"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2016"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2018"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2017"
+      }
+    ],
+    "resposta_correcta": 4,
+    "imatge": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_.jpg"
+  },
+  {
+    "id": 10,
+    "pregunta": "Quin any va sortir 'Star Wars: Episode IX - The Rise of Skywalker'?",
+    "respostes": [
+      {
+        "id": 1,
+        "etiqueta": "2018"
+      },
+      {
+        "id": 2,
+        "etiqueta": "2020"
+      },
+      {
+        "id": 3,
+        "etiqueta": "2019"
+      },
+      {
+        "id": 4,
+        "etiqueta": "2021"
+      }
+    ],
+    "resposta_correcta": 3,
+    "imatge": "https://lumiere-a.akamaihd.net/v1/images/image_0e5e4ddd.jpeg?region=0,0,540,810"
+  }
+]
